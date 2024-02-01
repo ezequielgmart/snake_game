@@ -1,0 +1,7 @@
+Reglas:
+
+el alimento puede salir por posiciones al azar
+cuando comes alimento creeces
+cuando chocas contigo mismo pierdes
+cuando chocas con la parde pierdes
+no puedes ir hacia abajo

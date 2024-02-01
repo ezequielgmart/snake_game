@@ -1,0 +1,8 @@
+.main_canvas {
+    border: 1px solid black;
+    background-image: url(../media/wall.jpg);
+}
+
+.controller_txt {
+    width: 100px;
+}
